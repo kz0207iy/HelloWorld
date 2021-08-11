@@ -26,6 +26,7 @@ public class MustKnowGitCommands {
 //    git stash save <stash-name>
 //    git stash list
 //    git stash clear
+//    git log to see commit history
 
 //    FORK in Github
 //    company_userame
