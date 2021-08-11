@@ -7,10 +7,14 @@ public class MustKnowGitCommands {
 //    git status
 //    git add .  || git add <file-name>
 //    git commit -m "<-message->"
+//    git commit -a -m "Update must know git commands"(((PRO Level-- add and commit at the same time))
 //    git push origin <branch>
-//    git branch to check the current branch.
 
-//    PULL OPeration
+//    git branch to check the current branch.
+//    git diff to check the differences
+//    git checkout -b <new-branch-name> to create new branch
+//    git checkout <branch-to-go-to> to change branch
+
 //    git pull origin <branch-name>
 //    git pull upstream <branch-name>
 
